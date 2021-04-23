@@ -21,6 +21,8 @@ Goyave is a progressive and accessible web application framework focused on REST
 <Basics/>
 <Routing/>
 <Controller/>
+<Database/>
+<Localization/>
 
 
 

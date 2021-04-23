@@ -1,6 +1,6 @@
 <template>
     <div>
-      <h2>Database></h2>
+      <h2>Database</h2>
       <p>Most web applications use a database. In this section, we are going to see how Goyave applications can query a database, using the awesome Gorm ORM.</p>
       <p>Database connections are managed by the framework and are long-lived. When the server shuts down, the database connections are closed automatically. So you don't have to worry about creating, closing or refreshing database connections in your application.</p>
       <p>Very few code is required to get started with databases. There are some configuration options that you need to change though:</p>
@@ -46,7 +46,7 @@
           }
         </code>
       </pre>
-      <p>Learn more about using databases in the <a href="https://goyave.dev/guide/basics/database.html">documentation</a></p>
+      <p>Learn more about using databases in the <a href="https://goyave.dev/guide/basics/database.html">documentation</a>.</p>
     </div>
 </template>
 
