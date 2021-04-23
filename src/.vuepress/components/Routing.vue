@@ -45,7 +45,7 @@
           }
         </code>
       </pre>
-      <p>Learn more about configuration in the <a href="https://goyave.dev/guide/basics/routing.html">documentation</a></p>
+      <p>Learn more about routing in the <a href="https://goyave.dev/guide/basics/routing.html">documentation</a></p>
     </div>
 </template>
 
