@@ -68,7 +68,7 @@
           }
         </code>
       </pre>
-      <p>Learn more about configuration in the <a href="https://goyave.dev/guide/basics/controllers.html">documentation</a></p>
+      <p>Learn more about configuration in the <a href="https://goyave.dev/guide/basics/controllers.html">documentation</a>.</p>
     </div>
 </template>
 

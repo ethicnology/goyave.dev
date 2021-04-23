@@ -64,7 +64,7 @@
           }
         </code>
       </pre>
-      <p>Learn more about localization in the <a href="https://goyave.dev/guide/advanced/localization.html">documentation</a></p>.
+      <p>Learn more about localization in the <a href="https://goyave.dev/guide/advanced/localization.html">documentation</a>.</p>
     </div>
 </template>
 

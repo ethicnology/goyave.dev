@@ -27,7 +27,7 @@
           router.Post("/product", product.Store).Validate(product.StoreRequest)
         </code>
       </pre>
-      <p>Learn more about validation in the <a href="https://goyave.dev/guide/basics/validation.html">documentation</a></p>
+      <p>Learn more about validation in the <a href="https://goyave.dev/guide/basics/validation.html">documentation</a>.</p>
     </div>
 </template>
 

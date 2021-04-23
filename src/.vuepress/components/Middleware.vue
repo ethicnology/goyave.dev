@@ -22,7 +22,7 @@
           router.Middleware(middleware.MyCustomMiddleware)
         </code>
       </pre>
-      <p>Learn more about middleware in the <a href="https://goyave.dev/guide/basics/middleware.html">documentation</a></p>
+      <p>Learn more about middleware in the <a href="https://goyave.dev/guide/basics/middleware.html">documentation</a>.</p>
     </div>
 </template>
 

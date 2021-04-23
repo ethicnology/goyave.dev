@@ -1,6 +1,8 @@
 <template>
     <div>
       <h1>Features Tour</h1>
+  
+      <!-- TODO : add sub features menu -->
       
       <div>
         <h2>Hello world from scratch</h2>
