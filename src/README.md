@@ -17,7 +17,8 @@ meta:
 Goyave is a progressive and accessible web application framework focused on REST APIs, aimed at making backend development easy and enjoyable. It has a philosophy of cleanliness and conciseness to make programs more elegant, easier to maintain and more focused. Get started quickly and master all its powerful functionalities thanks to its extensive documentation.
 </p>
 
-<Test/>
+<Features/>
+<Basics/>
 
 
 
